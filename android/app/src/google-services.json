@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828132491762",
+    "project_id": "userauth-bebe1",
+    "storage_bucket": "userauth-bebe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828132491762:android:7d9d67cb6d715905096b6b",
+        "android_client_info": {
+          "package_name": "com.example.nomadproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828132491762-9g69g8efa12a059u18ff7lkofdp13oc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nomadproject",
+            "certificate_hash": "e5d3793e2a651f2fe4518457827a8cd07fb67ca1"
+          }
+        },
+        {
+          "client_id": "828132491762-uc3tip7u0a8c0a8161ifkdhh3iebuhrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkEiZ_X4LX_stTjxKu6yQoyfrFqC3hMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828132491762-uc3tip7u0a8c0a8161ifkdhh3iebuhrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
